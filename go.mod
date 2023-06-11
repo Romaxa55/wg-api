@@ -1,4 +1,4 @@
-module github.com/jamescun/wg-api
+module github.com/Romaxa55/wg-api
 
 go 1.17
 
