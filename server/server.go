@@ -7,8 +7,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/jamescun/wg-api/client"
-	"github.com/jamescun/wg-api/server/jsonrpc"
+	"github.com/romaxa55/wg-api/client"
+	"github.com/romaxa55/wg-api/server/jsonrpc"
 
 	"golang.zx2c4.com/wireguard/wgctrl"
 	"golang.zx2c4.com/wireguard/wgctrl/wgtypes"

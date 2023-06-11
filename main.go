@@ -10,8 +10,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/jamescun/wg-api/server"
-	"github.com/jamescun/wg-api/server/jsonrpc"
+	"github.com/romaxa55/wg-api/server"
+	"github.com/romaxa55/wg-api/server/jsonrpc"
 
 	flag "github.com/spf13/pflag"
 	"golang.zx2c4.com/wireguard/wgctrl"

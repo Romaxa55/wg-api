@@ -18,14 +18,14 @@ WG-API presents a JSON-RPC interface on top of a WireGuard network interface.
 
 ### Pre-Built Binary
 
-Binaries for Linux are available [here](https://github.com/jamescun/wg-api/releases).
+Binaries for Linux are available [here](https://github.com/romaxa55/wg-api/releases).
 
 ### Build Yourself
 
 WG-API requires at least Go 1.17.
 
 ```sh
-go install github.com/jamescun/wg-api
+go install github.com/romaxa55/wg-api
 ```
 
 This should install the server binary `wg-api` in your $GOPATH/bin.

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jamescun/wg-api/server/jsonrpc"
+	"github.com/romaxa55/wg-api/server/jsonrpc"
 )
 
 // PreventReferer blocks any request that contains a Referer or Origin header,
